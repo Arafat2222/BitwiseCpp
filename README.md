@@ -14,6 +14,7 @@
                  ১২ ^ ১২   =  ০
          
         ১১ ^ ১১ ^ ১২ ^ ১২ = ০;
+        টাইম কম্পেক্সলিটি o(n).
         #include<bits/stdc++.h>
         using namespace std;
         int main(){
