@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/
+# [https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/]
 # Bitmask
 ## unique number
     •এক্সঅর(X-OR) অপারেশনের মাধ্যমে রিপিটেট নাম্বার গুলো শুন্য(০) হয়ে যায়। যেমন, ১১,১১,১২,১২ এই নাম্বারগুলোর এক্সঅর(X-OR) অপারেশন করলে উত্তর হবে –    
